@@ -1,9 +1,9 @@
-# Depyl
+# :droplet: Depyl
 
 Wordpress project for the start2impact course.  
 Web site for fake water company, created with a custom theme, using Tailwind CSS.
 
-## Content
+## :file_folder: Content
 
 The file in this repository are exported by the WP All In One Migration Plugin.  
 Use the same plugin to import it in Wordpress and clone the entire website.
